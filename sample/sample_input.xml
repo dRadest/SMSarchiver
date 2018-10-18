@@ -1,0 +1,20 @@
+<allsms count="582">
+<?xml version="1.0" encoding="UTF-8"?>
+	<sms address="+11111111111" time="Aug 30, 2017 13:20:10" date="1504092010364" type="1" body="Hi, how are you doing?" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 13:28:22" date="1504092502700" type="2" body="Good. And you?" read="1" service_center="" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 13:33:58" date="1504092838426" type="1" body="Good. Do you have time this week?" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 14:57:33" date="1504097853468" type="2" body="Maybe on Sunday..." read="1" service_center="" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 15:00:28" date="1504098028373" type="1" body="At the church?" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 15:00:54" date="1504098054624" type="2" body="Haha nice try :)" read="1" service_center="" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 16:48:20" date="1504104500819" type="1" body="Ok. When then?" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 19:15:31" date="1504113331489" type="2" body="What about 3?" read="1" service_center="" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 19:17:14" date="1504113434316" type="1" body="Ok. At the library?" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 19:19:35" date="1504113575333" type="2" body="Ok" read="1" service_center="" name="Some Friend" />
+	<sms address="+11111111111" time="Aug 30, 2017 20:03:13" date="1504116193603" type="1" body="See ya" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Sep 6, 2017 08:17:10" date="1504678630052" type="1" body="Do you have time today at 5 for some work?" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Sep 6, 2017 13:28:16" date="1504697296465" type="2" body="Sorry, I'm pretty busy" read="1" service_center="" name="Some Friend" />
+	<sms address="+11111111111" time="Sep 6, 2017 16:17:22" date="1504707442891" type="1" body="Ok" read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Sep 8, 2017 12:14:45" date="1504865685873" type="1" body="What about today? We're doing some work at 330." read="1" service_center="+22222222222" name="Some Friend" />
+	<sms address="+11111111111" time="Sep 8, 2017 13:24:11" date="1504869851537" type="2" body="Can't make it today either" read="1" service_center="" name="Some Friend" />
+	<sms address="+11111111111" time="Sep 8, 2017 13:24:55" date="1504869895767" type="1" body="Maybe some day haha" read="1" service_center="+22222222222" name="Some Friend" />
+	</allsms>
